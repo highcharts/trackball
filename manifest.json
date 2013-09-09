@@ -6,6 +6,13 @@
         "name": "Torstein Hønsi",
         "url": "https://github.com/highslide-software"
     },
+    "maintainers": [
+    	{
+    		"name": "Jon Arild Nygård",
+    		"email": "jon.arild@highsoft.com",
+    		"url": "https://github.com/jon-a-nygaard"
+    	}
+    ],
     "licenses": [
         {
             "type": "MIT",
