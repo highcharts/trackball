@@ -6,7 +6,7 @@
         // For each point add or update trackball
         H.each(points, function (point) {
             // Function variables
-            var size = 3,
+            var size = 5,
                 series = point.series,
                 chart = series.chart,
                 pointX = point.plotX + series.xAxis.pos,
