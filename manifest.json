@@ -1,8 +1,10 @@
 {
     "name": "Trackball",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Highcharts Trackball Extension",
-    "jsfiddle": "http://jsfiddle.net/highcharts/nhVbs/10/",
+    "demo": [
+        "http://jsfiddle.net/highcharts/nhVbs/10/"
+    ],
     "author": {
         "name": "Torstein Hønsi",
         "url": "https://github.com/highslide-software"
