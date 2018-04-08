@@ -1,0 +1,25 @@
+{
+  "name": "highcharts-trackball",
+  "version": "1.0.2",
+  "description": "A plugin for Highcharts, adding trackball/marker features to each series in the chart.",
+  "main": "trackball.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/highcharts/trackball.git"
+  },
+  "keywords": [
+    "highcharts",
+    "highcharts-addon",
+    "marker",
+    "trackball"
+  ],
+  "author": "Torstein Hønsi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/highcharts/trackball/issues"
+  },
+  "homepage": "https://github.com/highcharts/trackball#readme"
+}
